@@ -1,0 +1,18 @@
+2026-11-21 16:47:25 - INFO - Smart Energy Monitor started
+2026-11-21 16:47:25 - INFO - Viewed device list (2 devices)
+2026-11-21 16:47:25 - INFO - Financial report: 9500 kWh, discount 0%, cost 28500000 VND
+2026-11-21 16:47:25 - INFO - Device M01 is within safe threshold (3300 kWh)
+2026-11-21 16:47:25 - INFO - Invalid menu input: 'abc'
+2026-11-21 16:47:25 - INFO - Menu choice out of range: 9
+2026-11-21 16:47:25 - ERROR - ERR-E01 - Update failed, device M99 not found
+2026-11-21 16:47:25 - INFO - Negative index input: -5
+2026-11-21 16:47:25 - INFO - Invalid numeric input for index: 'năm nghìn'
+2026-11-21 16:47:25 - ERROR - ERR-E02 - New index 500 < old index 1000 for M01
+2026-11-21 16:47:25 - INFO - Updated M01 indices: old=1000, new=6500
+2026-11-21 16:47:25 - ERROR - ERR-E04 - Device M02 is already Overload
+2026-11-21 16:47:25 - WARNING - [Cảnh báo]: Thiết bị M01 đã vượt ngưỡng tiêu thụ an toàn, chuyển sang OVERLOAD!
+2026-11-21 16:47:25 - ERROR - ERR-E01 - Alert failed, device M99 not found
+2026-11-21 16:47:25 - INFO - Updated M02 indices: old=2300, new=56800
+2026-11-21 16:47:25 - INFO - Viewed device list (2 devices)
+2026-11-21 16:47:25 - INFO - Financial report: 60000 kWh, discount 3%, cost 174600000 VND
+2026-11-21 16:47:25 - INFO - Smart Energy Monitor stopped
